@@ -31,6 +31,8 @@ To-Do App Flutter (2.0.6)
 
  ### [Shahab Alam](#) <br/><br/>
 
+ ### Follow
+
  <div class="social-icons-image">
  <a href="https://www.facebook.com/iamShahabAlam/">
 <img  align = "left" src="https://www.facebook.com/images/fb_icon_325x325.png" style= "height:25px;"  alt="Facebook Icon" > </a> </div> 
@@ -60,8 +62,5 @@ To-Do App Flutter (2.0.6)
 <img   alt="BuyMeACoffee"  width="30px"  src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png?compress=1&resize=768x576&vertical=top" /></a>
 
 <br/>
-            
-### For Assistance
-- FOLLOW <a href="https://github.com/IamShahabAlam"> HERE </a> <br/>
 
 > :blue_heart: &nbsp; Fluttering
