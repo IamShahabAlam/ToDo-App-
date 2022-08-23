@@ -1,16 +1,65 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
+To-Do App Flutter (2.0.6)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- List
+- Add
+- Delete
+- Update
 
-A few resources to get you started if this is your first Flutter project:
+### Theme Colors:
+  - Black
+  - Grey
+  - Cyan
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Demonstration
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- COMING SOON :screwdriver: :placard:	  -->
+
+
+ 
+<img height="600px" width="300px" src="https://user-images.githubusercontent.com/82330891/186086974-7dfb9f67-dc9e-411e-a00c-007817204a15.png" /> 
+
+<br/>
+
+
+<!-- ## Result Screen -->
+
+<br/>
+
+## Credits
+
+ ### [Shahab Alam](#) <br/><br/>
+
+ <div class="social-icons-image">
+                <a href="https://www.facebook.com/iamShahabAlam/">
+                    <img src="https://www.facebook.com/images/fb_icon_325x325.png" style= "height:25px;"  alt="Facebook Icon" >
+                </a>
+            </div> 
+
+ <div class="social-icons-image">
+                <a href="https://github.com/IamShahabAlam">
+                    <img src="https://pngimg.com/uploads/github/github_PNG69.png"  style = "height:30px" alt="Twitter Icon">
+                </a>
+            </div>
+
+<div class="social-icons-image">
+                <a href="https://twitter.com/IamShahabAlam">
+                    <img src="https://pngimg.com/uploads/twitter/twitter_PNG3.png" style = "height:35px;" alt="Twitter Icon">
+                </a>
+            </div>
+            
+ <div class="social-icons-image">
+                <a  href="mailto:IamshahabAlam@gmail.com">
+<img  alt="Gmail" height="22px" width="25px"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+
+</a>
+            </div>
+             &nbsp;
+            
+### For Assistance
+- FOLLOW <a href="https://github.com/IamShahabAlam"> HERE </a> <br/>
+
+> :blue_heart: &nbsp; Fluttering
